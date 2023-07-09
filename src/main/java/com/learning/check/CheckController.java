@@ -10,6 +10,6 @@ public class CheckController {
 
     @GetMapping("/")
     public String sample(){
-        return "Sample program";
+        return "Sample program from Elastic Beanstalk";
     }
 }
